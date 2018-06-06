@@ -1,11 +1,11 @@
 # sql4curious
-SQL queries for curious developers - techniques for marsterclasses 
+SQL queries for curious developers - advanced techniques 
 
 ----
 
-This repository groups several of the more complicated SQL queries I written. 
+This repository groups several complicated SQL queries. 
 
-Some queries have been presented in GNU/Linux Magazine n° 211 and 213 :
+I presented some of them in GNU/Linux Magazine n° 211 and 213 :
 
 - CTE and Window Function with MariaDB
 
